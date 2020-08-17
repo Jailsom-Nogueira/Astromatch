@@ -13,7 +13,7 @@
 
 O objetivo do projeto foi exercitar a aplicação da biblioteca axios para bater em endpoints e o uso constante de componentização e passagem de props. 
 
-&copy;Código livre para uso pessoal. Para instalar basta copiar o link do repositório e fazer um clone local. 🎁
+&copy;Código livre para uso pessoal. Para instalar basta copiar o link do repositório, fazer um clone local e instalar as dependências. 🎁
 
 ### Link do surge: http://exciting-channel.surge.sh/
 
