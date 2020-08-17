@@ -15,6 +15,8 @@ O objetivo do projeto foi exercitar a aplicação da biblioteca axios para bater
 
 &copy;Código livre para uso pessoal. Para instalar basta copiar o link do repositório, fazer um clone local e instalar as dependências. 🎁
 
+📞 Vem trocar uma idéia: https://www.linkedin.com/in/jailsom-nogueira
+
 ### Link do surge: http://exciting-channel.surge.sh/
 
 ![screencapture-localhost-3000-2020-08-17-17_23_16](https://user-images.githubusercontent.com/65511670/90441221-f6563e80-e0ae-11ea-936e-86ef27498f10.png)
